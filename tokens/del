@@ -1,0 +1,14 @@
+[(.py)]
+)
+os.remove(
+[(.bat)]
+*EOF
+del 
+DEL 
+erase 
+ERASE 
+[(.sh)]
+*EOF
+rm 
+RM 
+[]
